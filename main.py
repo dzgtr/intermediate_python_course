@@ -7,8 +7,8 @@ Chapter 2: Tuples
 Chapter 3: Dictionaries
 Chapter 4: Sets
 Chapter 5: Strings
-
-
+Chapter 6: Collections
+Chapter 7: Itertools
 
 
 
