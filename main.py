@@ -9,6 +9,8 @@ Chapter 4: Sets
 Chapter 5: Strings
 Chapter 6: Collections
 Chapter 7: Itertools
+Chapter 8: Lambda
+Chapter 9: Errors and Exceptions
 
 
 
