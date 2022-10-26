@@ -11,7 +11,9 @@ Chapter 6: Collections
 Chapter 7: Itertools
 Chapter 8: Lambda
 Chapter 9: Errors and Exceptions
-
+Chapter 10: Logging
+Chapter 11: JSON
+Chapter 12: Random Numbers
 
 
 
