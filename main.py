@@ -14,7 +14,7 @@ Chapter 9: Errors and Exceptions
 Chapter 10: Logging
 Chapter 11: JSON
 Chapter 12: Random Numbers
-
+Chapter 13: Decorators
 
 
 
